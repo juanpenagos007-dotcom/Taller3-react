@@ -14,6 +14,35 @@ El proyecto busca ofrecer una experiencia de usuario intuitiva y moderna, con un
 - Validaciones de formularios (correo, contraseña, etc.) usando hooks personalizados.
 - Diseño responsivo y moderno.
 
+- ## Estructura del proyecto
+````markdown
+t3_shop
+├── node_modules
+├── public
+├── src
+│   ├── assets
+│   ├── features
+│   │   └── auth
+│   │       ├── components
+│   │       ├── context
+│   │       ├── hooks
+│   │       ├── layout
+│   │       │   └── components
+│   │       ├── views
+│   │       ├── components
+│   │       ├── hooks
+│   │       └── shared
+│   ├── App.jsx
+│   ├── main.jsx
+│   ├── Routes.jsx
+├── .gitignore
+├── eslint.config.js
+├── index.html
+├── package-lock.json
+├── package.json
+├── README.md
+└── vite.config.js
+
 ## Interfaz gráfica
 La interfaz de Novazone incluye:
 - **Barra de navegación**: acceso a inicio, productos, categorías, favoritos y perfil.
