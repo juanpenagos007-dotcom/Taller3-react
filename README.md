@@ -71,6 +71,5 @@ El código fuente completo está disponible en GitHub:
 
 ## Datos importantes del Autor
 - **Nombre:** Juan Benitez
-- **Correo:** (tu correo)
-- **Curso:** (nombre del curso)
+- **Correo:** juanpenagos007@gmail.com
 - **Fecha:** Marzo 2026 
