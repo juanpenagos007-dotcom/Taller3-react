@@ -60,7 +60,9 @@ La interfaz de Novazone incluye:
 - **Control de versiones:** GitHub
 
 ## Despliegue
-El proyecto está desplegado en Vercel y puede ser accesado en la siguiente URL:  
+El proyecto está desplegado en Vercel y puede ser accesado en la siguiente URL:
+(taller3-react-rho.vercel.app)
+  
 
 
 ## Repositorio
