@@ -1,18 +1,45 @@
-# React + Vite
+# Novazone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Descripción
+Novazone es una tienda online desarrollada con **React.js** y **Material-UI**, que permite a los usuarios explorar productos, agregarlos a favoritos y realizar compras de manera rápida y segura.  
+El proyecto busca ofrecer una experiencia de usuario intuitiva y moderna, con un diseño responsivo para dispositivos móviles y escritorio.
 
-Currently, two official plugins are available:
+## Características principales
+- Registro e inicio de sesión de usuarios.
+- Gestión de productos por categorías.
+- Funcionalidad de agregar/quitar favoritos.
+- Carrito de compras funcional.
+- Navegación fluida entre secciones usando enrutamiento React Router.
+- Interfaz basada en **Material-UI** para botones, formularios, tarjetas y listas.
+- Validaciones de formularios (correo, contraseña, etc.) usando hooks personalizados.
+- Diseño responsivo y moderno.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Interfaz gráfica
+La interfaz de Novazone incluye:
+- **Barra de navegación**: acceso a inicio, productos, categorías, favoritos y perfil.
+- **Página de productos**: tarjetas con información, imagen y botones de acción (añadir a favoritos y comprar).
+- **Página de favoritos**: visualización de productos guardados por el usuario.
+- **Formulario de login y registro**: con validaciones y toggles de mostrar/ocultar contraseña.
+- **Botones y elementos Material-UI**: colores, iconos y diseño consistente en todo el proyecto.
 
-## React Compiler
+## Arquitectura del Proyecto
+- **Frontend:** React.js + Material-UI
+- **Enrutamiento:** React Router
+- **Estado y hooks:** Hooks personalizados para formularios, favoritos y carrito.
+- **Base de datos:** (si estás usando MongoDB o SQL, colocar aquí)
+- **Despliegue:** Vercel
+- **Control de versiones:** GitHub
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+## Despliegue
+El proyecto está desplegado en Vercel y puede ser accesado en la siguiente URL:  
 
-Note: This will impact Vite dev & build performances.
 
-## Expanding the ESLint configuration
+## Repositorio
+El código fuente completo está disponible en GitHub:  
+(https://github.com/juanpenagos007-dotcom/Taller3-react/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Datos importantes del Autor
+- **Nombre:** Juan Benitez
+- **Correo:** (tu correo)
+- **Curso:** (nombre del curso)
+- **Fecha:** Marzo 2026 
